@@ -845,7 +845,7 @@
   "com_ui_download_error": "Fehler beim Herunterladen der Datei. Die Datei wurde möglicherweise gelöscht.",
   "com_ui_drag_drop": "Ziehe eine beliebige Datei hierher, um sie zur Unterhaltung hinzuzufügen.",
   "com_ui_dropdown_variables": "Dropdown-Variablen:",
-  "com_ui_dropdown_variables_info": "Erstelle benutzerdefinierte Dropdown-Menüs für deine Prompts:: `{{variable_name:option1|option2|option3}}`",
+  "com_ui_dropdown_variables_info": "Erstelle benutzerdefinierte Dropdown-Menüs für deine Prompts: `{{variable_name:option1|option2|option3}}`",
   "com_ui_duplicate": "Duplizieren",
   "com_ui_duplication_error": "Beim Duplizieren der Konversation ist ein Fehler aufgetreten",
   "com_ui_duplication_processing": "Konversation wird dupliziert...",
